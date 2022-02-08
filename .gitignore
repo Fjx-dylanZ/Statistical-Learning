@@ -1,0 +1,6 @@
+**/.DS_Store
+**/*.pdf
+**/test*.*
+.obsidian
+**/__pycache__
+**/.ipynb_checkpoints
