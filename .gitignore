@@ -7,4 +7,5 @@
 **/.Rhistory
 **/*.log
 **/*.tex
+**/Lecture*.*
 /venv
